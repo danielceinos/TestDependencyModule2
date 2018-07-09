@@ -5,5 +5,5 @@ package com.fireshield.dependencylibrary
  */
 class TDClass {
 
-  fun printVersion() = "first"
+  fun printVersion() = "second"
 }
